@@ -1,1 +1,1 @@
-$(call inherit-product, device/google/marlin/device-lineage.mk)
+$(call inherit-product, device/google/marlin/device-carbon.mk)
